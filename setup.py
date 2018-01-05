@@ -9,7 +9,6 @@ setup(name='libsasscompiler',
       author_email='johanderson@mogollon.com.ve',
       license='MIT',
       packages=['libsasscompiler'],
-      setup_requires=['pytest-runner'],
       test_requires=['pytest'],
       install_requires=[
           'libsass<=1.0.0',
